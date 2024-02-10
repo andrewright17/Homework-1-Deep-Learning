@@ -4,6 +4,10 @@
 
 This github repository is for Andrew Wright's CPSC 8430 Homework 1 assignment. The homework assignment is split into 3 main sections which correspond to the 3 main folders you'll see. All code is contained in Jupyter notebooks and can be ran. The libraries used throughout the homework problems are the usual ones: torch, numpy, pandas, sklearn, random, etc. Please reach out with any issues or concerns if you are unable to run the code.
 
+## Report
+
+The "Homework 1 report.ipynb" file is used to write the report that will be submitted for this homework. This file is compiled as both html and pdf.
+
 ## Data
 
 The only dataset that has been downloaded is the MNIST dataset. It is stored in the "data" folder. Running the notebooks will not redownload data if this folder is present. It will only download the data if this file is not in the correct relative path that is specified.
